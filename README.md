@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there👋, I'm Jonathan Othoudt
+---
+
+- 👯 I’m looking to collaborate on anything. I love creating new things and learning new skills.
+-  🌱 I’m currently learning a variety of things. I am diving deeper into react, javascript and node but I am also starting to pick up some python and looking to jump into Go.
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jothoudt&theme=midnight-purple)
 
 <!--
 **jothoudt/jothoudt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
