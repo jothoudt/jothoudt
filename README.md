@@ -5,7 +5,7 @@
 -  🌱 I’m currently learning a variety of things. I am diving deeper into react, javascript and node but I am also starting to pick up some python and looking to jump into Go.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jothoudt&langs_count=8&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jothoudt&langs_count=9&theme=midnight-purple)
 
 <!--
 **jothoudt/jothoudt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
